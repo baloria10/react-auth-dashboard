@@ -30,20 +30,21 @@ If you haven't already, clone or navigate into the project directory:
 git clone <repository-url>
 cd <repository-directory>
 ```
+### 3. Ask admin to gives .env file
 
-### 3. Install Dependencies
+### 4. Install Dependencies
 Install all the required packages using npm:
 ```bash
 npm install
 ```
 
-### 4. Run the Development Server
+### 5. Run the Development Server
 Start the application locally:
 ```bash
 npm run dev
 ```
 
-### 5. Access the Application
+### 6. Access the Application
 Open your browser and navigate to the local server URL provided in the terminal (usually `http://localhost:5173`).
 
 ## Usage
