@@ -48,5 +48,5 @@ npm run dev
 Open your browser and navigate to the local server URL provided in the terminal (usually `http://localhost:5173`).
 
 ## Usage
-- Use the **login page** to authenticate. (See [DummyJSON Auth Docs](https://dummyjson.com/docs/auth) for valid testing credentials if needed).
+- Use the **login page** to authenticate.
 - Once logged in, you will be redirected to the **dashboard** where you can view your profile and the available products.
